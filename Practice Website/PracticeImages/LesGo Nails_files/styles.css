@@ -1,0 +1,61 @@
+/* FONTS */
+/*NOTE: 1em = 16px -- VW or VH = Viewport Width or Height % of whole viewport */
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+
+/* NAVBAR SECTION */    
+.navbar {
+    margin: 20px 50px;
+    padding-bottom: 1rem;
+}
+
+
+/* TITLE SECTION  */
+h1 {
+    margin: 30px 30px;
+    padding: 20px;
+    text-align: left;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    padding: 30px 70px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1.5rem;
+}
+
+body {
+    margin: 20px 50px 50px 50px;
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.title-snippet {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.leslie-image {
+    text-align: center;
+    margin: 0px 30px;
+    border: 1px;
+    border-radius: 100%;
+    width: 25%;
+} 
+
+/* BUTTONS */
+.title-button {
+    margin: 20px 50px;
+    text-align: left;
+}
+
+.book-button {
+    margin: 5% 3% 5% 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+

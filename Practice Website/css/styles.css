@@ -1,0 +1,83 @@
+/* FONTS */
+/*NOTE: 1em = 16px -- VW or VH = Viewport Width or Height % of whole viewport */
+/* font-family: 
+'Montserrat', sans-serif;
+font-family: 
+'Ubuntu', sans-serif; 
+*/
+
+/* NAVBAR SECTION */    
+.navbar {
+    margin: 20px 50px;
+    padding-bottom: 1rem;
+    color:#fff;
+}
+
+#navbarTogglerDemo02 {
+    text-align: right;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.nav-item {
+    margin-right: 20px;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+/* TITLE SECTION  */
+h1 {
+    margin: 30px 30px;
+    padding: 20px;
+    text-align: left;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    padding: 30px 70px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+body {
+    margin: 20px 50px 50px 50px;
+    text-align: center;
+    background-color: #add0b3;
+}
+
+.title-snippet {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.leslie-image {
+    text-align: center;
+    margin: 0px 30px;
+    border: 1px;
+    border-radius: 100%;
+    width: 25%;
+} 
+
+/* BUTTONS */
+.title-button {
+    margin: 20px 50px;
+    text-align: left;
+}
+
+.book-button {
+    margin: 5% 3% 5% 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
